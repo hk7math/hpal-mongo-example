@@ -22,7 +22,8 @@
     "@hapi/good-squeeze": "^6.0.0",
     "haute-couture": "3.x.x",
     "joi": "17.x.x",
-    "mongoose": "5.9.6"
+    "mongoose": "5.9.6",
+    "mongoose-patch-history": "^2.0.0"
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
